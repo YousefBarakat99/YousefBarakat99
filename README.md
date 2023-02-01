@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Yousef 👋
 
 <!--
 **YousefBarakat99/YousefBarakat99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Data/Business Analyst and currently on the lookout for a job opportunity.
+
 ### 🎓 Education:
   - Mechatronics Engineering BSc (University of Debrecen, Hungary)
   - Engineering Management MSc (University of Debrecen, Hungary)
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently working on:
-  - Learning Data Analysis and Visualization using Python, SQL, [Tableau](https://public.tableau.com/app/profile/yousef.barakat)
+  - Learning Data Analysis and Visualization using Python, SQL, Excel, [Tableau](https://public.tableau.com/app/profile/yousef.barakat)
   - Expanding my [Portfolio](https://github.com/YousefBarakat99/My_Portfolio)
 
 ### :mailbox_with_mail: Where you could find me:
