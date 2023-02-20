@@ -26,7 +26,7 @@ I'm a Data/Business Analyst and currently on the lookout for a job opportunity.
 
 
 ### 🌱 I’m currently working on:
-  - Learning Data Analysis and Visualization using Python, SQL, Excel, [Tableau](https://public.tableau.com/app/profile/yousef.barakat)
+  - Performing Data Analysis and Visualization using Python, SQL, Excel, [Tableau](https://public.tableau.com/app/profile/yousef.barakat)
   - Expanding my [Portfolio](https://github.com/YousefBarakat99/My_Portfolio)
 
 ### :mailbox_with_mail: Where you could find me:
