@@ -22,7 +22,7 @@ I'm a Data/Business Analyst and currently on the lookout for a job opportunity.
  
 
 ### 📜 Certifications:
-  - Data Analysis with Python [(FreeCodeCamp)](https://freecodecamp.org/certification/Heroghost52/data-analysis-with-python-v7)
+  - Data Analysis with Python ([FreeCodeCamp])(https://freecodecamp.org/certification/Heroghost52/data-analysis-with-python-v7)
 
 
 ### 🌱 I’m currently working on:
